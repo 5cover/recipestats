@@ -1,0 +1,4972 @@
+Goal: Cobalt Dust
+Chain 1
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+Chain 2
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+Chain 3
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 4
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 5
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 6
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 7
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 8
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 9
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 10
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 11
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 12
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+Chain 13
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 14
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 15
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 16
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 17
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 18
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 19
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 20
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+Chain 21
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 22
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 23
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 24
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 25
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 26
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 27
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 28
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 29
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 30
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+Chain 31
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 32
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 33
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 34
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 35
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 36
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 37
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 38
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 39
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 40
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 41
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 42
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 43
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 44
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 45
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 46
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+Chain 47
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 48
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 49
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2              Macerator │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │         0.23 Sulfur Dust        │
+  │ 800EU                       20s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3               Smelting │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │          1 Cobalt Ingot         │
+  │ 6400EU                      10s │
+  └─────────────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 50
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 51
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 52
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 53
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 54
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 55
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 56
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 57
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 58
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 59
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 60
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 61
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 62
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2              Macerator │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │         0.23 Sulfur Dust        │
+  │ 800EU                       20s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Centrifuge │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │         0.11 Sulfur Dust        │
+  │ 5280EU                      11s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 63
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 64
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 65
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 66
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 67
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 68
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 69
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2              Macerator │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │         0.23 Sulfur Dust        │
+  │ 800EU                       20s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Ore Washer │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │            100 Water            │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │ 32EU                       0.4s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 70
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 71
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 72
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 73
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 74
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2           Forge Hammer │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │ 160EU                      0.5s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Centrifuge │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │         0.11 Sulfur Dust        │
+  │ 5280EU                      11s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 75
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 76
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 77
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 78
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 79
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 80
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 81
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 82
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 83
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2           Forge Hammer │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │ 160EU                      0.5s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Ore Washer │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │            100 Water            │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │ 32EU                       0.4s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 84
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 85
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 86
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 87
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 88
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 89
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 90
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 91
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 92
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2           Forge Hammer │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │ 160EU                      0.5s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3               Smelting │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │          1 Cobalt Ingot         │
+  │ 6400EU                      10s │
+  └─────────────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 93
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 94
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 95
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2              Macerator │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │         0.23 Sulfur Dust        │
+  │ 800EU                       20s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Ore Washer │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │            100 Water            │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │ 32EU                       0.4s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 96
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2              Macerator │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │         0.23 Sulfur Dust        │
+  │ 800EU                       20s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3               Smelting │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │          1 Cobalt Ingot         │
+  │ 6400EU                      10s │
+  └─────────────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 97
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 98
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 99
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 100
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 101
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 102
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 103
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 2       Smelting │
+  │ 1 Crushed Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 3  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 104
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 2       Smelting │
+  │ 1 Crushed Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 3  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 105
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 106
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        1000 Water        │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 6400EU               20s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 107
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 108
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 109
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4      Macerator │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │     0.23 Cobalt Dust    │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 110
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2           Forge Hammer │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │ 160EU                      0.5s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3               Smelting │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │          1 Cobalt Ingot         │
+  │ 6400EU                      10s │
+  └─────────────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 111
+  ┌────────────────────┐
+  │ Recipe 1  Smelting │
+  │  1 Raw Cobaltite   │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 2  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 112
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 113
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4   Forge Hammer │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │     1 Cobaltite Dust    │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 114
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 115
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2           Forge Hammer │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │ 160EU                      0.5s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Ore Washer │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │            100 Water            │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │ 32EU                       0.4s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 116
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 117
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2              Macerator │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │         0.23 Sulfur Dust        │
+  │ 800EU                       20s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Centrifuge │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │         0.11 Sulfur Dust        │
+  │ 5280EU                      11s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 118
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 119
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 120
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 121
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 122
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 3  Thermal Centrifuge │
+  │   1 Purified Cobaltite Ore   │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 4       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 123
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 124
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────────┐
+  │ Recipe 2  Thermal Centrifuge │
+  │   1 Crushed Cobaltite Ore    │
+  │              ↧               │
+  │   1 Refined Cobaltite Ore    │
+  │       0.33 Cobalt Dust       │
+  │         1 Stone Dust         │
+  │ 12000EU                  20s │
+  └──────────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 3       Smelting │
+  │ 1 Refined Cobaltite Ore │
+  │            ↧            │
+  │      1 Cobalt Ingot     │
+  │ 6400EU              10s │
+  └─────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 125
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 126
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 127
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │   100 Distilled Water    │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.33 Sulfur Dust     │
+  │       1 Stone Dust       │
+  │ 3200EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Ore Washer │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │             100 Water             │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │ 32EU                         0.4s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 128
+  ┌─────────────────────────┐
+  │ Recipe 1   Forge Hammer │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 1 Crushed Cobaltite Ore │
+  │ 160EU              0.5s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 3        Smelting │
+  │ 1 Purified Cobaltite Ore │
+  │            ↧             │
+  │      1 Cobalt Ingot      │
+  │ 6400EU               10s │
+  └──────────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 4  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 129
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2   Chemical Bath │
+  │ 1 Crushed Cobaltite Ore  │
+  │  100 Sodium Persulfate   │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │     0.76 Cobalt Dust     │
+  │     0.47 Stone Dust      │
+  │ 6000EU               10s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3             Forge Hammer │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │ 160EU                        0.5s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 130
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 2      Ore Washer │
+  │ 1 Crushed Cobaltite Ore  │
+  │        100 Water         │
+  │            ↧             │
+  │ 1 Purified Cobaltite Ore │
+  │ 32EU                0.4s │
+  └──────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3                Macerator │
+  │      1 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │          0.23 Cobalt Dust         │
+  │ 800EU                         20s │
+  └───────────────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 4               Centrifuge │
+  │ 1 Purified Pile of Cobaltite Dust │
+  │                 ↧                 │
+  │          1 Cobaltite Dust         │
+  │          0.11 Cobalt Dust         │
+  │ 500EU                          5s │
+  └───────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 5  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 6  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
+Chain 131
+  ┌─────────────────────────┐
+  │ Recipe 1      Macerator │
+  │     1 Raw Cobaltite     │
+  │            ↧            │
+  │ 2 Crushed Cobaltite Ore │
+  │     0.13 Sulfur Dust    │
+  │     0.51 Stone Dust     │
+  │ 800EU               20s │
+  └─────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 2           Forge Hammer │
+  │     1 Crushed Cobaltite Ore     │
+  │                ↧                │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │ 160EU                      0.5s │
+  └─────────────────────────────────┘
+  ┌─────────────────────────────────┐
+  │ Recipe 3             Centrifuge │
+  │ 1 Impure Pile of Cobaltite Dust │
+  │                ↧                │
+  │         1 Cobaltite Dust        │
+  │         0.11 Sulfur Dust        │
+  │ 5280EU                      11s │
+  └─────────────────────────────────┘
+  ┌────────────────────┐
+  │ Recipe 4  Smelting │
+  │  1 Cobaltite Dust  │
+  │         ↧          │
+  │   1 Cobalt Ingot   │
+  │ 6400EU         10s │
+  └────────────────────┘
+  ┌─────────────────────┐
+  │ Recipe 5  Macerator │
+  │    1 Cobalt Ingot   │
+  │          ↧          │
+  │    1 Cobalt Dust    │
+  │ 118EU         2.95s │
+  └─────────────────────┘
