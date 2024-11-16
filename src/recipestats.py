@@ -162,6 +162,7 @@ RECIPES = (
            2.95, 118, Oc.LV)
 )
 
+
 def get_chains(goal: Resource):
     chains: list[tuple[Recipe, ...]] = []
     for goal_recipe in (r for r in RECIPES if goal in r.outputs):

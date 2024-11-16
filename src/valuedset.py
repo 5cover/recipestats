@@ -13,7 +13,7 @@ class ValuedSet(Mapping[_KT, float]):
 
     def copy(self):
         return ValuedSet(self._data)
-    
+
     def single(self):
         if len(self._data) != 1:
             raise ValueError('Not 1 item in ValuedSet')
@@ -66,7 +66,7 @@ class ValuedSet(Mapping[_KT, float]):
             else:
                 self._data[k] -= v
         return self
-    
+
     def __mul__(self, other: float):
         result = self.copy()
         result *= other
@@ -76,6 +76,6 @@ class ValuedSet(Mapping[_KT, float]):
         for k in self._data:
             self._data[k] *= other
         return self
-    
+
     def __and__(self, other: Mapping[_KT, float]):
         return ValuedSet({k: self._data[k] - other[k] for k in self._data.keys() & other.keys() if self._data[k] != other[k]})
