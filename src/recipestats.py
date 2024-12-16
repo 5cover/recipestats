@@ -1,6 +1,6 @@
 #!/bin/env python3
 
-from gtceu import chain, Resource, Type, Recipe, recipe, Machine, Oc, TIER
+from gtceu import chain, Chain, Resource, Type, Recipe, recipe, Machine, Oc, TIER
 from lines import print_box
 
 R = {
@@ -178,11 +178,17 @@ def get_chains(goal: Resource):
     return chains
 
 
+def resource_efficiency(chain: Chain):
+    cobalt_inputs = sum(qty for res, qty in chain.flows.items() if 'Cobalt' in res.name and qty < 0)
+    cobalt_outputs = sum(qty for res, qty in chain.flows.items() if 'Cobalt' in res.name and qty > 0)
+    return cobalt_outputs / (abs(cobalt_inputs) if cobalt_inputs else 1)
+
+def value_minus_cost(chain: Chain):
+    return chain.value - chain.cost
+
 if __name__ == '__main__':
     chains = map(chain, get_chains(R['Cobalt Dust']))
-    #!c = chain(RECIPES[i] for i in (1, 4, 13, 21, 23, 24))
-    #!c = chain(RECIPES[i] for i in (2, 6, 18, 24))
-    c = max(chains, key=lambda c: c.value - c.cost)
+    c = max(chains, key=resource_efficiency)
     for i, r in enumerate(c.recipes, 1):
         print_box(r.to_lines(i), indent=2)
     for resource, quantity in sorted(c.flows.items(), key=lambda kv: kv[1]):

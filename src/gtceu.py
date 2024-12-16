@@ -88,12 +88,12 @@ class Chain:
     @property
     @cache
     def cost(self):
-        return sum(r.value * -q for r, q in self.flows.items() if q < 0)
+        return sum(res.value * -qty for res, qty in self.flows.items() if qty < 0)
 
     @property
     @cache
     def value(self):
-        return sum(r.value * q for r, q in self.flows.items() if q > 0)
+        return sum(res.value * qty for res, qty in self.flows.items() if qty > 0)
 
     @property
     @cache
