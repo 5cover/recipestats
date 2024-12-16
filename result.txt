@@ -1,0 +1,60 @@
+  ┌──────────────────────────┐
+  │ Recipe 1 (1x)  Macerator │
+  │     1 Raw Cobaltite      │
+  │            ↧             │
+  │ 2 Crushed Cobaltite Ore  │
+  │     0.13 Sulfur Dust     │
+  │     0.51 Stone Dust      │
+  │ 800EU                20s │
+  └──────────────────────────┘
+  ┌───────────────────────────┐
+  │ Recipe 2 (2x)  Ore Washer │
+  │  2 Crushed Cobaltite Ore  │
+  │         200 Water         │
+  │             ↧             │
+  │  2 Purified Cobaltite Ore │
+  │ 64EU                 0.8s │
+  └───────────────────────────┘
+  ┌───────────────────────────────────┐
+  │ Recipe 3 (2x)  Thermal Centrifuge │
+  │      2 Purified Cobaltite Ore     │
+  │                 ↧                 │
+  │      2 Refined Cobaltite Ore      │
+  │         0.667 Cobalt Dust         │
+  │ 24000EU                       40s │
+  └───────────────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 4 (2x)  Macerator │
+  │ 2 Refined Cobaltite Ore  │
+  │            ↧             │
+  │     2 Cobaltite Dust     │
+  │     0.45 Cobalt Dust     │
+  │ 1600EU               40s │
+  └──────────────────────────┘
+  ┌─────────────────────────┐
+  │ Recipe 5 (2x)  Smelting │
+  │     2 Cobaltite Dust    │
+  │            ↧            │
+  │      2 Cobalt Ingot     │
+  │ 12800EU             20s │
+  └─────────────────────────┘
+  ┌──────────────────────────┐
+  │ Recipe 6 (2x)  Macerator │
+  │      2 Cobalt Ingot      │
+  │            ↧             │
+  │      2 Cobalt Dust       │
+  │ 236EU               5.9s │
+  └──────────────────────────┘
+* -200 Water
+* -1 Raw Cobaltite
+* 0.13 Sulfur Dust
+* 0.51 Stone Dust
+* 3.117 Cobalt Dust
+value: 317.467
+cost: 0.4
+energy: 39500
+duration: 126.7
+
+Most efficient for Cobalt Dust
+
+Ignore last Macerator recipe if ingots are needed.

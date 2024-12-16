@@ -50,13 +50,13 @@ RECIPES = (
            {R['Crushed Cobaltite Ore']: 1},
            {R['Cobalt Ingot']: 1},
            SMELTING_SECS, SMELTING_EU),
-    recipe(Machine.CHEMICAL_BATH,
-           {R['Crushed Cobaltite Ore']: 1,
-            R['Sodium Persulfate']: 100},
-           {R['Purified Cobaltite Ore']: 1,
-            R['Cobalt Dust']: chance(.7, .058),
-            R['Stone Dust']: chance(.4, .065)},
-           10, 6000, Oc.LV),
+    #!recipe(Machine.CHEMICAL_BATH,
+    #!       {R['Crushed Cobaltite Ore']: 1,
+    #!        R['Sodium Persulfate']: 100},
+    #!       {R['Purified Cobaltite Ore']: 1,
+    #!        R['Cobalt Dust']: chance(.7, .058),
+    #!        R['Stone Dust']: chance(.4, .065)},
+    #!       10, 6000, Oc.LV),
     recipe(Machine.FORGE_HAMMER,
            {R['Crushed Cobaltite Ore']: 1},
            {R['Impure Pile of Cobaltite Dust']: 1},
@@ -178,17 +178,20 @@ def get_chains(goal: Resource):
     return chains
 
 
-def resource_efficiency(chain: Chain):
-    cobalt_inputs = sum(qty for res, qty in chain.flows.items() if 'Cobalt' in res.name and qty < 0)
-    cobalt_outputs = sum(qty for res, qty in chain.flows.items() if 'Cobalt' in res.name and qty > 0)
+def resource_efficiency(chain: Chain, goal: Resource):
+    cobalt_inputs = sum(qty for res, qty in chain.flows.items() if res == goal and qty < 0)
+    cobalt_outputs = sum(qty for res, qty in chain.flows.items() if res == goal and qty > 0)
+
     return cobalt_outputs / (abs(cobalt_inputs) if cobalt_inputs else 1)
+
 
 def value_minus_cost(chain: Chain):
     return chain.value - chain.cost
 
+
 if __name__ == '__main__':
     chains = map(chain, get_chains(R['Cobalt Dust']))
-    c = max(chains, key=resource_efficiency)
+    c = max(chains, key=lambda x: resource_efficiency(x, R['Cobalt Dust']))
     for i, r in enumerate(c.recipes, 1):
         print_box(r.to_lines(i), indent=2)
     for resource, quantity in sorted(c.flows.items(), key=lambda kv: kv[1]):
