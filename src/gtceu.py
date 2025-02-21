@@ -176,8 +176,9 @@ class Chain:
 
         for i, recipe in enumerate(self.recipes):
             nodeid_recipe = f'r{i}'
+            config_part = '' if recipe.circuit_config_no is None else f' config {recipe.circuit_config_no}'
             print(
-                f'{nodeid_recipe}["{recipe.times}x Recipe {recipe.id}<br>{recipe.machine.value}<br>{recipe.energy}EU {recipe.duration}s"]')
+                f'{nodeid_recipe}["{recipe.times}x Recipe {recipe.id}<br>{recipe.machine.value}{config_part}<br>{recipe.energy}EU {recipe.duration}s"]')
 
             for rs, qty in (recipe.inputs & input_flows).items():
                 label = '' if qty == input_flows[rs] else f'|"x{qty:g} ({qty/input_flows[rs]:.2%})"|'
