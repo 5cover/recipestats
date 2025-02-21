@@ -163,7 +163,7 @@ class Chain:
         print('---')
         print('flowchart TD')
 
-        input_flows = {k: v for k, v in self.flows.items() if v < 0}
+        input_flows = {k: -v for k, v in self.flows.items() if v < 0}
         output_flows = {k: v for k, v in self.flows.items() if v > 0}
 
         # define inputs
@@ -180,7 +180,7 @@ class Chain:
                 f'{nodeid_recipe}["{recipe.times}x Recipe {recipe.id}<br>{recipe.machine.value}<br>{recipe.energy}EU {recipe.duration}s"]')
 
             for rs, qty in (recipe.inputs & input_flows).items():
-                label = '' if qty == -input_flows[rs] else f'|"x{qty:g} ({qty/-input_flows[rs]:.2%})"|'
+                label = '' if qty == input_flows[rs] else f'|"x{qty:g} ({qty/input_flows[rs]:.2%})"|'
                 print(f'i{slugify(rs.name)}-->{label}{nodeid_recipe}')
 
             for rs, qty in (recipe.outputs & output_flows).items():
