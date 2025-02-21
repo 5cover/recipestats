@@ -4,6 +4,7 @@ from collections.abc import Iterable, Mapping, Sequence
 from functools import cache
 from lines import Line
 from valuedset import ValuedSet
+import re
 
 
 class Oc(Enum):
@@ -147,29 +148,65 @@ class Chain:
     @cache
     def duration(self):
         return sum(r.duration for r in self.recipes)
-    
+
     @property
     @cache
     def id(self):
         return ','.join(str(r.id) for r in self.recipes)
-    
-    def __len__(self) -> int:
+
+    def __len__(self):
         return len(self.recipes)
+
+    def print_mermaid(self) -> None:
+        print('---')
+        print(f'title: Chain {self.id}')
+        print('---')
+        print('flowchart TD')
+
+        input_flows = {k: v for k, v in self.flows.items() if v < 0}
+        output_flows = {k: v for k, v in self.flows.items() if v > 0}
+
+        # define inputs
+        for rs, qty in self.flows.items():
+            nodeid = slugify(rs.name)
+            assert qty != 0
+            print(f'i{nodeid}(["{rs.name} x{-qty:g}"])'
+                  if qty < 0 else
+                  f'o{nodeid}(["{rs.name} x{qty:g}"])')
+
+        for i, recipe in enumerate(self.recipes):
+            nodeid_recipe = f'r{i}'
+            print(
+                f'{nodeid_recipe}["{recipe.times}x Recipe {recipe.id}<br>{recipe.machine.value}<br>{recipe.energy}EU {recipe.duration}s"]')
+
+            for rs, qty in (recipe.inputs & input_flows).items():
+                label = '' if qty == -input_flows[rs] else f'|"x{qty:g} ({qty/-input_flows[rs]:.2%})"|'
+                print(f'i{slugify(rs.name)}-->{label}{nodeid_recipe}')
+
+            for rs, qty in (recipe.outputs & output_flows).items():
+                label = '' if qty == output_flows[rs] else f'|"x{qty:g} ({qty/output_flows[rs]:.2%})"|'
+                print(f'{nodeid_recipe}-->{label}o{slugify(rs.name)}')
+            for rs, qty in recipe.outputs.exclude(output_flows).items():
+                print(f'r{i}-->|{rs.name} x{qty:g}|r{i+1}')
+
+
+def slugify(s: str):
+    return re.sub(r'\W+', '-', s).strip('-').lower()
 
 
 def chain(recipes: Iterable[Recipe]):
-    final_recipes: list[Recipe] = []
+    final_recipes: list[Recipe]=[]
 
-    flows = ValuedSet[Resource]()
+    flows=ValuedSet[Resource]()
 
-    prev_recipe: Recipe | None = None
+    prev_recipe: Recipe | None=None
     for recipe in recipes:
         if prev_recipe:
-            misflows = prev_recipe.outputs & recipe.inputs
+            misflows=prev_recipe.outputs.delta(recipe.inputs)
             if len(misflows) != 0:
-                r = misflows.single()[0]
+                r=misflows.single()[0]
                 recipe *= (prev_recipe.outputs[r] / recipe.inputs[r])
-        prev_recipe = recipe
+        prev_recipe=recipe
 
         flows -= recipe.inputs
         flows += recipe.outputs

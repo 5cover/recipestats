@@ -362,4 +362,5 @@ if __name__ == '__main__':
     chains = map(chain, get_chains(target))
     
     c = max(chains, key=lambda x: resource_efficiency(x, target))
-    print_chain(c)
+    #print_chain(c)
+    c.print_mermaid()

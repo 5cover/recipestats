@@ -78,4 +78,10 @@ class ValuedSet(Mapping[_KT, float]):
         return self
 
     def __and__(self, other: Mapping[_KT, float]):
+        return ValuedSet({k: self._data[k] for k in self._data.keys() & other.keys()})
+
+    def delta(self, other: Mapping[_KT, float]):
         return ValuedSet({k: self._data[k] - other[k] for k in self._data.keys() & other.keys() if self._data[k] != other[k]})
+    
+    def exclude(self, other: Mapping[_KT, float]):
+        return ValuedSet({k: self._data[k] for k in self._data.keys() - other.keys()})
